@@ -1,0 +1,29 @@
+name: Flat
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: '*/60 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      # This step installs Deno, which is a new Javascript runtime that improves on Node. Can be used for an optional postprocessing step
+      - name: Setup deno
+        uses: denoland/setup-deno@main
+        with:
+          deno-version: v1.x
+      # Check out the repository so it can read the files inside of it and do other operations
+      - name: Check out repo
+        uses: actions/checkout@v2
+      # The Flat Action step. We fetch the data in the http_url and save it as downloaded_filename
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: api.openweathermap.org/data/2.5/weather?q=Washington,DC,US&appid=a14a2a211c13e4d6d0e7248ba6b2fed3
+ # THE URL YOU WISH TO FETCH GOES HERE
+          downloaded_filename: weather.json # The http_url gets saved and renamed in our repository. Example: data.json, data.csv, image.png
