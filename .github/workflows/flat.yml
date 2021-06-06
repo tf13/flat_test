@@ -24,6 +24,6 @@ jobs:
       - name: Flat Data
         uses: githubocto/flat@v3.2.0
         with:
-          http_url: api.openweathermap.org/data/2.5/weather?q=Washington,DC,US&appid=a14a2a211c13e4d6d0e7248ba6b2fed3
+          http_url: https://api.openweathermap.org/data/2.5/weather?q=Washington,DC,US&appid=a14a2a211c13e4d6d0e7248ba6b2fed3
  # THE URL YOU WISH TO FETCH GOES HERE
           downloaded_filename: weather.json # The http_url gets saved and renamed in our repository. Example: data.json, data.csv, image.png
