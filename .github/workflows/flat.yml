@@ -27,4 +27,5 @@ jobs:
           http_url: https://api.openweathermap.org/data/2.5/weather?q=Washington,DC,US&appid=a14a2a211c13e4d6d0e7248ba6b2fed3
  # THE URL YOU WISH TO FETCH GOES HERE
           downloaded_filename: weather.json # The http_url gets saved and renamed in our repository. Example: data.json, data.csv, image.png
+          postprocess: postprocess.js # A postprocessing javascript or typescript file
       
