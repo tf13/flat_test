@@ -8,31 +8,31 @@
       "id": 802,
       "main": "Clouds",
       "description": "scattered clouds",
-      "icon": "03n"
+      "icon": "03d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 290.22,
-    "feels_like": 290.02,
-    "temp_min": 287.94,
-    "temp_max": 292.12,
-    "pressure": 1008,
+    "temp": 289.93,
+    "feels_like": 289.7,
+    "temp_min": 287.67,
+    "temp_max": 292.01,
+    "pressure": 1010,
     "humidity": 78
   },
   "visibility": 10000,
   "wind": {
-    "speed": 5.14,
-    "deg": 320,
-    "gust": 9.26
+    "speed": 1.79,
+    "deg": 338,
+    "gust": 3.58
   },
   "clouds": {
     "all": 40
   },
-  "dt": 1623834807,
+  "dt": 1623838306,
   "sys": {
-    "type": 1,
-    "id": 3787,
+    "type": 2,
+    "id": 2007358,
     "country": "US",
     "sunrise": 1623836543,
     "sunset": 1623890130
