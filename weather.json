@@ -5,6 +5,12 @@
   },
   "weather": [
     {
+      "id": 211,
+      "main": "Thunderstorm",
+      "description": "thunderstorm",
+      "icon": "11d"
+    },
+    {
       "id": 721,
       "main": "Haze",
       "description": "haze",
@@ -13,26 +19,26 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 303.86,
-    "feels_like": 307.16,
-    "temp_min": 301.22,
-    "temp_max": 305.98,
+    "temp": 304.2,
+    "feels_like": 307.14,
+    "temp_min": 302.12,
+    "temp_max": 306.33,
     "pressure": 1012,
-    "humidity": 59
+    "humidity": 56
   },
-  "visibility": 8047,
+  "visibility": 9656,
   "wind": {
-    "speed": 0.89,
-    "deg": 307,
-    "gust": 3.58
+    "speed": 5.66,
+    "deg": 360,
+    "gust": 8.23
   },
   "clouds": {
-    "all": 40
+    "all": 75
   },
-  "dt": 1626884460,
+  "dt": 1626888054,
   "sys": {
-    "type": 2,
-    "id": 2002287,
+    "type": 1,
+    "id": 3787,
     "country": "US",
     "sunrise": 1626861588,
     "sunset": 1626913738
