@@ -13,12 +13,12 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 292.52,
-    "feels_like": 292.55,
-    "temp_min": 289.41,
-    "temp_max": 295.11,
+    "temp": 291.59,
+    "feels_like": 291.63,
+    "temp_min": 288.58,
+    "temp_max": 293.92,
     "pressure": 1018,
-    "humidity": 78
+    "humidity": 82
   },
   "visibility": 10000,
   "wind": {
@@ -28,13 +28,13 @@
   "clouds": {
     "all": 1
   },
-  "dt": 1628133083,
+  "dt": 1628137073,
   "sys": {
     "type": 2,
     "id": 2002287,
     "country": "US",
-    "sunrise": 1628071919,
-    "sunset": 1628122584
+    "sunrise": 1628158374,
+    "sunset": 1628208919
   },
   "timezone": -14400,
   "id": 4140963,
