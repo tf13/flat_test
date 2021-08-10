@@ -8,31 +8,31 @@
       "id": 211,
       "main": "Thunderstorm",
       "description": "thunderstorm",
-      "icon": "11d"
+      "icon": "11n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 302.87,
-    "feels_like": 307.07,
-    "temp_min": 297.71,
-    "temp_max": 305.68,
-    "pressure": 1017,
-    "humidity": 68
+    "temp": 298.41,
+    "feels_like": 299.13,
+    "temp_min": 294.41,
+    "temp_max": 303.04,
+    "pressure": 1018,
+    "humidity": 82
   },
   "visibility": 10000,
   "wind": {
-    "speed": 1.79,
-    "deg": 3,
-    "gust": 3.13
+    "speed": 0.89,
+    "deg": 4,
+    "gust": 1.79
   },
   "clouds": {
     "all": 75
   },
-  "dt": 1628550706,
+  "dt": 1628556259,
   "sys": {
     "type": 2,
-    "id": 2007789,
+    "id": 2002287,
     "country": "US",
     "sunrise": 1628504193,
     "sunset": 1628554246
