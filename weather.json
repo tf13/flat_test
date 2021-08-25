@@ -8,15 +8,15 @@
       "id": 801,
       "main": "Clouds",
       "description": "few clouds",
-      "icon": "02n"
+      "icon": "02d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 295.34,
-    "feels_like": 295.99,
-    "temp_min": 292.97,
-    "temp_max": 297.3,
+    "temp": 295.25,
+    "feels_like": 295.89,
+    "temp_min": 292.96,
+    "temp_max": 297.12,
     "pressure": 1017,
     "humidity": 91
   },
@@ -28,7 +28,7 @@
   "clouds": {
     "all": 20
   },
-  "dt": 1629886554,
+  "dt": 1629889812,
   "sys": {
     "type": 1,
     "id": 3787,
