@@ -9,30 +9,44 @@
       "main": "Thunderstorm",
       "description": "thunderstorm",
       "icon": "11d"
+    },
+    {
+      "id": 701,
+      "main": "Mist",
+      "description": "mist",
+      "icon": "50d"
+    },
+    {
+      "id": 500,
+      "main": "Rain",
+      "description": "light rain",
+      "icon": "10d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 303.98,
-    "feels_like": 310.3,
-    "temp_min": 300.68,
-    "temp_max": 308.75,
+    "temp": 300.97,
+    "feels_like": 304.11,
+    "temp_min": 298.05,
+    "temp_max": 305.36,
     "pressure": 1017,
-    "humidity": 70
+    "humidity": 75
   },
-  "visibility": 10000,
+  "visibility": 2012,
   "wind": {
-    "speed": 1.79,
-    "deg": 257,
-    "gust": 4.92
+    "speed": 2.57,
+    "deg": 20
+  },
+  "rain": {
+    "1h": 0.18
   },
   "clouds": {
-    "all": 75
+    "all": 90
   },
-  "dt": 1630095056,
+  "dt": 1630098599,
   "sys": {
-    "type": 2,
-    "id": 2002287,
+    "type": 1,
+    "id": 3787,
     "country": "US",
     "sunrise": 1630060380,
     "sunset": 1630107998
