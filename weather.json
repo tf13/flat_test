@@ -8,27 +8,27 @@
       "id": 701,
       "main": "Mist",
       "description": "mist",
-      "icon": "50n"
+      "icon": "50d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 293.27,
-    "feels_like": 293.79,
-    "temp_min": 291.62,
+    "temp": 293.3,
+    "feels_like": 293.83,
+    "temp_min": 291.74,
     "temp_max": 294.94,
     "pressure": 1018,
     "humidity": 94
   },
-  "visibility": 8047,
+  "visibility": 6437,
   "wind": {
     "speed": 0,
     "deg": 0
   },
   "clouds": {
-    "all": 1
+    "all": 90
   },
-  "dt": 1631960092,
+  "dt": 1631963477,
   "sys": {
     "type": 2,
     "id": 2002287,
