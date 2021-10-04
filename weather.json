@@ -13,23 +13,23 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 293.85,
-    "feels_like": 294.27,
-    "temp_min": 292.37,
-    "temp_max": 295.13,
-    "pressure": 1012,
-    "humidity": 88
+    "temp": 294.69,
+    "feels_like": 295.17,
+    "temp_min": 293.51,
+    "temp_max": 295.92,
+    "pressure": 1013,
+    "humidity": 87
   },
   "visibility": 10000,
   "wind": {
-    "speed": 0.45,
-    "deg": 195,
+    "speed": 0.89,
+    "deg": 197,
     "gust": 2.68
   },
   "clouds": {
     "all": 90
   },
-  "dt": 1633350032,
+  "dt": 1633353600,
   "sys": {
     "type": 2,
     "id": 2002287,
