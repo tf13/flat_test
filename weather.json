@@ -5,9 +5,9 @@
   },
   "weather": [
     {
-      "id": 300,
+      "id": 301,
       "main": "Drizzle",
-      "description": "light intensity drizzle",
+      "description": "drizzle",
       "icon": "09d"
     },
     {
@@ -19,22 +19,23 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 292.74,
-    "feels_like": 293.13,
-    "temp_min": 291.59,
-    "temp_max": 294.26,
-    "pressure": 1017,
-    "humidity": 91
+    "temp": 293.39,
+    "feels_like": 293.79,
+    "temp_min": 292.01,
+    "temp_max": 294.86,
+    "pressure": 1018,
+    "humidity": 89
   },
-  "visibility": 4023,
+  "visibility": 10000,
   "wind": {
-    "speed": 2.57,
-    "deg": 360
+    "speed": 0.45,
+    "deg": 2,
+    "gust": 0.89
   },
   "clouds": {
     "all": 90
   },
-  "dt": 1634055478,
+  "dt": 1634058874,
   "sys": {
     "type": 2,
     "id": 2002287,
