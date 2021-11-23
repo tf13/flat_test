@@ -5,34 +5,34 @@
   },
   "weather": [
     {
-      "id": 802,
+      "id": 801,
       "main": "Clouds",
-      "description": "scattered clouds",
-      "icon": "03n"
+      "description": "few clouds",
+      "icon": "02n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 272.55,
-    "feels_like": 272.55,
-    "temp_min": 270.36,
-    "temp_max": 274.54,
-    "pressure": 1017,
-    "humidity": 63
+    "temp": 272.46,
+    "feels_like": 272.46,
+    "temp_min": 270.27,
+    "temp_max": 274.32,
+    "pressure": 1018,
+    "humidity": 64
   },
   "visibility": 10000,
   "wind": {
-    "speed": 0.45,
-    "deg": 296,
-    "gust": 0.45
+    "speed": 0.89,
+    "deg": 312,
+    "gust": 3.58
   },
   "clouds": {
-    "all": 40
+    "all": 20
   },
-  "dt": 1637658851,
+  "dt": 1637662493,
   "sys": {
     "type": 2,
-    "id": 2034471,
+    "id": 2002287,
     "country": "US",
     "sunrise": 1637668800,
     "sunset": 1637704179
