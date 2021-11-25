@@ -8,28 +8,27 @@
       "id": 803,
       "main": "Clouds",
       "description": "broken clouds",
-      "icon": "04n"
+      "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 273.8,
-    "feels_like": 273.8,
-    "temp_min": 271.23,
-    "temp_max": 275.98,
+    "temp": 274.07,
+    "feels_like": 271.69,
+    "temp_min": 270.77,
+    "temp_max": 276.11,
     "pressure": 1021,
-    "humidity": 76
+    "humidity": 77
   },
   "visibility": 10000,
   "wind": {
-    "speed": 0.45,
-    "deg": 303,
-    "gust": 0.45
+    "speed": 2.06,
+    "deg": 200
   },
   "clouds": {
     "all": 75
   },
-  "dt": 1637838654,
+  "dt": 1637843026,
   "sys": {
     "type": 2,
     "id": 2034471,
