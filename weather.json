@@ -5,6 +5,12 @@
   },
   "weather": [
     {
+      "id": 300,
+      "main": "Drizzle",
+      "description": "light intensity drizzle",
+      "icon": "09n"
+    },
+    {
       "id": 701,
       "main": "Mist",
       "description": "mist",
@@ -13,26 +19,25 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 284.08,
-    "feels_like": 283.66,
-    "temp_min": 282.25,
+    "temp": 284.04,
+    "feels_like": 283.61,
+    "temp_min": 282.17,
     "temp_max": 285.12,
     "pressure": 1012,
     "humidity": 93
   },
   "visibility": 6437,
   "wind": {
-    "speed": 0.45,
-    "deg": 191,
-    "gust": 0.45
+    "speed": 2.06,
+    "deg": 190
   },
   "clouds": {
     "all": 90
   },
-  "dt": 1640920521,
+  "dt": 1640924243,
   "sys": {
     "type": 2,
-    "id": 2002287,
+    "id": 2034471,
     "country": "US",
     "sunrise": 1640867184,
     "sunset": 1640901294
