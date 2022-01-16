@@ -9,30 +9,36 @@
       "main": "Snow",
       "description": "snow",
       "icon": "13d"
+    },
+    {
+      "id": 741,
+      "main": "Fog",
+      "description": "fog",
+      "icon": "50d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 268.57,
-    "feels_like": 268.57,
-    "temp_min": 265.84,
+    "temp": 268.78,
+    "feels_like": 265.92,
+    "temp_min": 266.1,
     "temp_max": 271.23,
-    "pressure": 1016,
-    "humidity": 85
+    "pressure": 1013,
+    "humidity": 86
   },
   "visibility": 805,
   "wind": {
-    "speed": 0.89,
-    "deg": 70,
-    "gust": 4.47
+    "speed": 1.79,
+    "deg": 55,
+    "gust": 6.26
   },
   "snow": {
-    "1h": 1
+    "1h": 2.51
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1642363903,
+  "dt": 1642367201,
   "sys": {
     "type": 2,
     "id": 2002287,
