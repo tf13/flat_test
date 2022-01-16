@@ -11,34 +11,34 @@
       "icon": "13d"
     },
     {
-      "id": 741,
-      "main": "Fog",
-      "description": "fog",
+      "id": 701,
+      "main": "Mist",
+      "description": "mist",
       "icon": "50d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 268.78,
-    "feels_like": 265.92,
-    "temp_min": 266.1,
-    "temp_max": 271.23,
-    "pressure": 1013,
-    "humidity": 86
+    "temp": 269.61,
+    "feels_like": 266.88,
+    "temp_min": 266.3,
+    "temp_max": 272,
+    "pressure": 1011,
+    "humidity": 88
   },
-  "visibility": 805,
+  "visibility": 1207,
   "wind": {
     "speed": 1.79,
-    "deg": 55,
-    "gust": 6.26
+    "deg": 86,
+    "gust": 5.36
   },
   "snow": {
-    "1h": 2.51
+    "1h": 2.73
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1642367201,
+  "dt": 1642370976,
   "sys": {
     "type": 2,
     "id": 2002287,
