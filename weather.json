@@ -8,28 +8,28 @@
       "id": 802,
       "main": "Clouds",
       "description": "scattered clouds",
-      "icon": "03d"
+      "icon": "03n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 274.48,
-    "feels_like": 274.48,
-    "temp_min": 272.56,
-    "temp_max": 276.38,
-    "pressure": 1024,
-    "humidity": 55
+    "temp": 272.93,
+    "feels_like": 272.93,
+    "temp_min": 271.2,
+    "temp_max": 274.44,
+    "pressure": 1025,
+    "humidity": 58
   },
   "visibility": 10000,
   "wind": {
     "speed": 0.89,
-    "deg": 119,
-    "gust": 2.68
+    "deg": 55,
+    "gust": 3.13
   },
   "clouds": {
     "all": 40
   },
-  "dt": 1643667157,
+  "dt": 1643670601,
   "sys": {
     "type": 2,
     "id": 2002287,
