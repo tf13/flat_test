@@ -15,21 +15,21 @@
   "main": {
     "temp": 272.66,
     "feels_like": 272.66,
-    "temp_min": 269.98,
+    "temp_min": 269.36,
     "temp_max": 274.39,
     "pressure": 1030,
-    "humidity": 48
+    "humidity": 50
   },
   "visibility": 10000,
   "wind": {
     "speed": 0.45,
-    "deg": 155,
-    "gust": 0.89
+    "deg": 80,
+    "gust": 0.45
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1644198803,
+  "dt": 1644201014,
   "sys": {
     "type": 2,
     "id": 2034471,
