@@ -8,33 +8,42 @@
       "id": 300,
       "main": "Drizzle",
       "description": "light intensity drizzle",
-      "icon": "09n"
+      "icon": "09d"
     },
     {
       "id": 701,
       "main": "Mist",
       "description": "mist",
-      "icon": "50n"
+      "icon": "50d"
+    },
+    {
+      "id": 600,
+      "main": "Snow",
+      "description": "light snow",
+      "icon": "13d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 273.95,
-    "feels_like": 270.13,
+    "temp": 274.1,
+    "feels_like": 269.07,
     "temp_min": 273.1,
-    "temp_max": 274.92,
-    "pressure": 1017,
+    "temp_max": 275.18,
+    "pressure": 1015,
     "humidity": 93
   },
-  "visibility": 4023,
+  "visibility": 6437,
   "wind": {
-    "speed": 3.6,
-    "deg": 210
+    "speed": 5.66,
+    "deg": 190
+  },
+  "snow": {
+    "1h": 0.18
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1645787442,
+  "dt": 1645791749,
   "sys": {
     "type": 2,
     "id": 2034471,
