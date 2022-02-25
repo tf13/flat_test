@@ -15,26 +15,35 @@
       "main": "Mist",
       "description": "mist",
       "icon": "50n"
+    },
+    {
+      "id": 500,
+      "main": "Rain",
+      "description": "light rain",
+      "icon": "10n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 273.66,
-    "feels_like": 271.22,
-    "temp_min": 272.72,
-    "temp_max": 274.68,
-    "pressure": 1023,
-    "humidity": 91
+    "temp": 273.78,
+    "feels_like": 272.05,
+    "temp_min": 272.73,
+    "temp_max": 274.78,
+    "pressure": 1021,
+    "humidity": 92
   },
-  "visibility": 6437,
+  "visibility": 4828,
   "wind": {
-    "speed": 2.06,
-    "deg": 110
+    "speed": 1.54,
+    "deg": 130
+  },
+  "rain": {
+    "1h": 0.25
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1645773020,
+  "dt": 1645776998,
   "sys": {
     "type": 2,
     "id": 2034471,
