@@ -5,39 +5,39 @@
   },
   "weather": [
     {
-      "id": 801,
+      "id": 802,
       "main": "Clouds",
-      "description": "few clouds",
-      "icon": "02n"
+      "description": "scattered clouds",
+      "icon": "03n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 268.28,
-    "feels_like": 261.72,
+    "temp": 268.19,
+    "feels_like": 261.19,
     "temp_min": 266.99,
-    "temp_max": 269.32,
-    "pressure": 1019,
-    "humidity": 62
+    "temp_max": 269.18,
+    "pressure": 1020,
+    "humidity": 59
   },
   "visibility": 10000,
   "wind": {
-    "speed": 5.66,
-    "deg": 300,
-    "gust": 10.29
+    "speed": 8.23,
+    "deg": 290,
+    "gust": 12.35
   },
   "clouds": {
-    "all": 20
+    "all": 40
   },
-  "dt": 1647152307,
+  "dt": 1647155505,
   "sys": {
     "type": 2,
-    "id": 2002287,
+    "id": 2034471,
     "country": "US",
     "sunrise": 1647170559,
     "sunset": 1647213163
   },
-  "timezone": -18000,
+  "timezone": -14400,
   "id": 4140963,
   "name": "Washington D.C.",
   "cod": 200
