@@ -5,34 +5,33 @@
   },
   "weather": [
     {
-      "id": 600,
-      "main": "Snow",
-      "description": "light snow",
-      "icon": "13d"
+      "id": 500,
+      "main": "Rain",
+      "description": "light rain",
+      "icon": "10d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 273.76,
-    "feels_like": 267.94,
-    "temp_min": 272.01,
-    "temp_max": 275.37,
-    "pressure": 1026,
-    "humidity": 46
+    "temp": 274.8,
+    "feels_like": 269.96,
+    "temp_min": 273.12,
+    "temp_max": 276.43,
+    "pressure": 1025,
+    "humidity": 43
   },
   "visibility": 10000,
   "wind": {
-    "speed": 7.2,
-    "deg": 200,
-    "gust": 9.26
+    "speed": 5.66,
+    "deg": 240
   },
-  "snow": {
-    "1h": 0.25
+  "rain": {
+    "1h": 0.42
   },
   "clouds": {
-    "all": 0
+    "all": 40
   },
-  "dt": 1647188497,
+  "dt": 1647191326,
   "sys": {
     "type": 2,
     "id": 2002287,
