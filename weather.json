@@ -9,32 +9,26 @@
       "main": "Fog",
       "description": "fog",
       "icon": "50n"
-    },
-    {
-      "id": 701,
-      "main": "Mist",
-      "description": "mist",
-      "icon": "50n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 283.39,
-    "feels_like": 282.9,
-    "temp_min": 281.11,
-    "temp_max": 285.58,
+    "temp": 283.19,
+    "feels_like": 282.68,
+    "temp_min": 280.23,
+    "temp_max": 285.4,
     "pressure": 1015,
     "humidity": 93
   },
-  "visibility": 4023,
+  "visibility": 402,
   "wind": {
-    "speed": 2.57,
+    "speed": 2.06,
     "deg": 190
   },
   "clouds": {
-    "all": 40
+    "all": 100
   },
-  "dt": 1647587651,
+  "dt": 1647593044,
   "sys": {
     "type": 2,
     "id": 2002287,
