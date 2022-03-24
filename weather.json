@@ -9,26 +9,32 @@
       "main": "Mist",
       "description": "mist",
       "icon": "50d"
+    },
+    {
+      "id": 300,
+      "main": "Drizzle",
+      "description": "light intensity drizzle",
+      "icon": "09d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 286.56,
-    "feels_like": 286.2,
-    "temp_min": 283.11,
-    "temp_max": 288.81,
-    "pressure": 1006,
-    "humidity": 86
+    "temp": 285.54,
+    "feels_like": 285.13,
+    "temp_min": 282.11,
+    "temp_max": 288.21,
+    "pressure": 1005,
+    "humidity": 88
   },
-  "visibility": 10000,
+  "visibility": 8047,
   "wind": {
-    "speed": 5.14,
-    "deg": 60
+    "speed": 3.6,
+    "deg": 50
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1648156089,
+  "dt": 1648160191,
   "sys": {
     "type": 2,
     "id": 2002287,
