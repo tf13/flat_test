@@ -9,35 +9,27 @@
       "main": "Thunderstorm",
       "description": "thunderstorm",
       "icon": "11n"
-    },
-    {
-      "id": 500,
-      "main": "Rain",
-      "description": "light rain",
-      "icon": "10n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 282.75,
-    "feels_like": 280.61,
-    "temp_min": 280.8,
-    "temp_max": 284.62,
-    "pressure": 1005,
-    "humidity": 78
+    "temp": 282.13,
+    "feels_like": 278.87,
+    "temp_min": 280.33,
+    "temp_max": 283.84,
+    "pressure": 1004,
+    "humidity": 83
   },
-  "visibility": 10000,
+  "visibility": 8047,
   "wind": {
-    "speed": 4.12,
-    "deg": 40
-  },
-  "rain": {
-    "1h": 0.66
+    "speed": 6.69,
+    "deg": 320,
+    "gust": 11.32
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1649472352,
+  "dt": 1649474338,
   "sys": {
     "type": 2,
     "id": 2002287,
